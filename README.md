@@ -22,5 +22,5 @@ S-au creat controllere și vizualizări, pentru adăugarea, ștergerea și admin
 
 
 ## Credits
-Brad Cosmin pentru (implementarea bazei de date, creeare vizualizări și controllere (bază mvc))
+Brad Cosmin pentru (implementarea bazei de date, creeare vizualizări și controllere (bază mvc))  
 Ionuț Bara pentru (comentare cod, creeare assembly pentru suport bilingv, corecturi cod, design, documentație, diagrama UML)
