@@ -1,0 +1,9 @@
+E:\desk1\Language2\bin\Debug\Language2.dll
+E:\desk1\Language2\bin\Debug\Language2.pdb
+E:\desk1\Language2\obj\Debug\Language2.csproj.AssemblyReference.cache
+E:\desk1\Language2\obj\Debug\Language2.csproj.CoreCompileInputs.cache
+E:\desk1\Language2\obj\Debug\Language2.dll
+E:\desk1\Language2\obj\Debug\Language2.pdb
+E:\desk1\Language2\obj\Debug\Language2.ResourceEn.resources
+E:\desk1\Language2\obj\Debug\Language2.ResourceRo.resources
+E:\desk1\Language2\obj\Debug\Language2.csproj.GenerateResource.cache
